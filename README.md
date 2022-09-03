@@ -17,4 +17,4 @@
     2-java -jar hsqldb-2.7.0-jdk8.jar (iniciar panel visual para ejecucion de Querys)
     
  
-Nota: se adjunta video de presentacion,. titulado NisumJAVA.mp4
+Nota: se adjunta video de presentacion,. titulado NisumJAVA.mp4 link https://drive.google.com/drive/folders/1VqIZhGBC5BINSPaNBuAsnr4FLHhraky2?usp=sharing
